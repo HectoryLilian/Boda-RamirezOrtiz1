@@ -188,13 +188,13 @@
 /* FINAL */
   
 .bgFinal {
-	background-image: url("../images/f5f7b0a1-1325-4188-8216-3348f922285d.jpg");
+	background-image: url("../images/Compromiso(138).jpg");
 	background-position: 70% 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgFinal {
-		background-image: url("../images/f5f7b0a1-1325-4188-8216-3348f922285d.jpg");
+		background-image: url("../images/Compromiso(138).jpg");
 	}
 }
 
