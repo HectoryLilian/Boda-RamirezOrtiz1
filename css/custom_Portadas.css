@@ -118,13 +118,13 @@
 /* ITINERARIO */
   
 .bgItinerario {
-	background-image: url("../images/d7ecba04-46d2-431a-922b-29e11c74cc94.JPEG");
+	background-image: url("../images/Compromiso\(145\).jpg");
 	background-position: 50%, 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgItinerario {
-		background-image: url("../images/d7ecba04-46d2-431a-922b-29e11c74cc94.JPEG");
+		background-image: url("../images/Compromiso\(145\).jpg");
 	}
 }
 
