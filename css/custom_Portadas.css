@@ -164,13 +164,13 @@
 /* IG */
   
 .bgIg {
-	background-image: url("../images/Compromiso(67).jpg");
+	background-image: url("../images/Compromiso(120).jpg");
 	background-position: 30% 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgIg {
-		background-image: url("../images/Compromiso(67).jpg");
+		background-image: url("../images/Compromiso(120).jpg");
 	}
 }
 
