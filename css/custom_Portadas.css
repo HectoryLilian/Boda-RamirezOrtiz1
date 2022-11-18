@@ -70,13 +70,13 @@
 
 /* PORTADA */
 .bgPortada {
-	background-image: url("../images/Compromiso\(131\).jpg");
+	background-image: url("../images/Compromiso(131).jpg");
 	background-position: 50%, 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgPortada {
-		background-image: url("../images/Compromiso\(131\).jpg");
+		background-image: url("../images/Compromiso(131).jpg");
 	}
 }
 
@@ -93,13 +93,13 @@
 /* COUNTER */
 
 .bgCounter {
-	background-image: url("../images/Compromiso\(72\).jpg");
+	background-image: url("../images/Compromiso(72).jpg");
 	background-position: 50%, 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgCounter {
-		background-image: url("../images/Compromiso\(72\).jpg");
+		background-image: url("../images/Compromiso(72).jpg");
 	}
 }
 
@@ -118,13 +118,13 @@
 /* ITINERARIO */
   
 .bgItinerario {
-	background-image: url("../images/Compromiso\(145\).jpg");
+	background-image: url("../images/Compromiso(63).jpg");
 	background-position: 50%, 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgItinerario {
-		background-image: url("../images/Compromiso\(145\).jpg");
+		background-image: url("../images/Compromiso(63).jpg");
 	}
 }
 
@@ -164,13 +164,13 @@
 /* IG */
   
 .bgIg {
-	background-image: url("../images/Compromiso(120).jpg");
+	background-image: url("../images/Compromiso_Volcan.jpg");
 	background-position: 30% 50%;
 }
 
 @media only screen and (max-width: 600px) {
 	.bgIg {
-		background-image: url("../images/Compromiso(120).jpg");
+		background-image: url("../images/Compromiso_Volcan.jpg");
 	}
 }
 
@@ -183,7 +183,6 @@
 	right: 0;
 	background-color: rgba(0, 0, 0, 0.05);
 }
-
 
 /* FINAL */
   
